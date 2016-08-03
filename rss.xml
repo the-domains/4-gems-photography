@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Michigan High School Senior Photographer]]></title>
         <description><![CDATA[Michigan High School Senior Photographer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://4gemsphotography.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 00:10:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Aug 2016 00:11:23 GMT</lastBuildDate>
+        <atom:link href="http://4gemsphotography.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Seniors]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c61cb13-5b07-49b8-9b59-b53bcf3041d8.jpg" alt="" title="">]]></description>
+            <link>http://4gemsphotography.com/seniors/index.html</link>
+            <guid isPermaLink="false">8166556d-1fc5-47cc-81c1-fec1a1185724</guid>
+            <pubDate>Wed, 03 Aug 2016 00:10:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Models]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1414c65c-0406-4731-a951-7aca8419daf9.jpg" alt="" title="">]]></description>
-            <link>undefinedmodels/index.html</link>
+            <link>http://4gemsphotography.com/models/index.html</link>
             <guid isPermaLink="false">58b3f56d-c2ce-41f6-9070-f8e5363c0c2b</guid>
             <pubDate>Wed, 03 Aug 2016 00:10:50 GMT</pubDate>
         </item>
