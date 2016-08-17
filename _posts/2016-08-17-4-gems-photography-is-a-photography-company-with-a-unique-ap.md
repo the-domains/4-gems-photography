@@ -7,8 +7,8 @@ keywords: []
 description: >-
   4 Gems Photography is a photography company with a unique approach: We think
   you are a gem and we want to see you shine! 
-datePublished: '2016-08-17T01:35:30.596Z'
-dateModified: '2016-08-17T01:33:48.901Z'
+datePublished: '2016-08-17T19:17:15.153Z'
+dateModified: '2016-08-17T19:17:14.745Z'
 title: ''
 author: []
 via: {}
