@@ -25,7 +25,7 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: About 4 Gems Photography
+  - name: All about 4 Gems Photography
     id: 90bdd471-8fec-4f5f-9632-71721e5580f1
     type: content
   - name: Who is Eric Mazzone?
