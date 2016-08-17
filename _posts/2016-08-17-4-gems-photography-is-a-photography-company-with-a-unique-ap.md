@@ -1,24 +1,24 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: >-
   4 Gems Photography is a photography company with a unique approach: We think
   you are a gem and we want to see you shine! 
-datePublished: '2016-08-17T01:26:20.797Z'
-dateModified: '2016-08-17T01:25:49.366Z'
+datePublished: '2016-08-17T01:31:31.631Z'
+dateModified: '2016-08-17T01:28:05.980Z'
 title: ''
 author: []
 via: {}
+sourcePath: >-
+  _posts/2016-08-17-4-gems-photography-is-a-photography-company-with-a-unique-ap.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: >-
-  _posts/2016-08-17-4-gems-photography-is-a-photography-company-with-a-unique-ap.md
 url: 4-gems-photography-is-a-photography-company-with-a-unique-ap/index.html
-_type: Article
+_type: WebPage
 
 ---
 4 Gems Photography is a photography company with a unique approach: We think you are a gem and we want to see you shine! 
