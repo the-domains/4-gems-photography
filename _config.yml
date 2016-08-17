@@ -1,20 +1,4 @@
-name: 4 Gems Photography
-favicon: null
-layout_spectrum: 0.75
 typography_spectrum: 0.5993257246445864
-title: Kalamazoo Michigan High School Senior Photographer
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-34786152-4
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ADD7F6'
@@ -26,4 +10,21 @@ color:
   lightness: 0.9540261209476739
   saturation: 0.29329927009530365
   rhythmicContrast: 0.26646797684952617
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.75
+analytics:
+  google: UA-34786152-4
+  facebook: null
+  twitter: null
+name: 4 Gems Photography
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Kalamazoo Michigan High School Senior Photographer
+description: Capturing your inner sparkle
 purpose: []
