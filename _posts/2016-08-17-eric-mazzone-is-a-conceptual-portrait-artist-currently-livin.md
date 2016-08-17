@@ -1,24 +1,24 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: >-
   Eric Mazzone is a conceptual portrait artist currently living in Kalamazoo,
   Michigan Area. 
-datePublished: '2016-08-17T01:20:50.430Z'
-dateModified: '2016-08-17T01:20:28.056Z'
+datePublished: '2016-08-17T01:31:25.472Z'
+dateModified: '2016-08-17T01:28:40.315Z'
 title: ''
 author: []
 via: {}
+sourcePath: >-
+  _posts/2016-08-17-eric-mazzone-is-a-conceptual-portrait-artist-currently-livin.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: >-
-  _posts/2016-08-17-eric-mazzone-is-a-conceptual-portrait-artist-currently-livin.md
 url: eric-mazzone-is-a-conceptual-portrait-artist-currently-livin/index.html
-_type: Article
+_type: WebPage
 
 ---
 Eric Mazzone is a conceptual portrait artist currently living in Kalamazoo, Michigan Area. 
