@@ -7,8 +7,8 @@ keywords: []
 description: >-
   Eric Mazzone is a conceptual portrait artist currently living in Kalamazoo,
   Michigan Area. 
-datePublished: '2016-08-17T01:32:12.804Z'
-dateModified: '2016-08-17T01:31:56.156Z'
+datePublished: '2016-08-17T19:17:24.577Z'
+dateModified: '2016-08-17T19:17:24.269Z'
 title: ''
 author: []
 via: {}
