@@ -28,6 +28,9 @@ navigation:
   - name: About 4 Gems Photography
     id: 90bdd471-8fec-4f5f-9632-71721e5580f1
     type: content
+  - name: About Eric Mazzone
+    id: a4957c94-e683-486d-a494-b67bea68aea3
+    type: content
 favicon: null
 title: Kalamazoo Michigan High School Senior Photographer
 description: Capturing your inner sparkle!
