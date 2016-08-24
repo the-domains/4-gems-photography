@@ -1,29 +1,33 @@
-layout_spectrum: 0.4764248796273023
-typography_spectrum: 0.6748863302636892
+title: Kalamazoo Michigan High School Senior Photographer
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+description: Capturing your inner sparkle!
 color:
+  saturation: 1
+  brandStrength: 0.7913491220679134
+  lightness: 1
   brandColors:
     - '#ADD7F6'
     - '#87BFFF'
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.7913491220679134
-  lightness: 0.9540261209476739
-  saturation: 0.29329927009530365
-  rhythmicContrast: 0.26646797684952617
-opengraph:
-  image: null
-  type: null
-  appId: null
-analytics:
-  google: UA-34786152-4
-  facebook: '254701668234813'
-  twitter: null
-name: 4 Gems Photography
+  rhythmicContrast: 0.2293233
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 navigation:
   - name: All about 4 Gems Photography
     id: 90bdd471-8fec-4f5f-9632-71721e5580f1
@@ -31,7 +35,15 @@ navigation:
   - name: Who is Eric Mazzone?
     id: a4957c94-e683-486d-a494-b67bea68aea3
     type: content
+name: 4 Gems Photography
 favicon: null
-title: Kalamazoo Michigan High School Senior Photographer
-description: Capturing your inner sparkle!
-purpose: []
+analytics:
+  twitter: null
+  google: UA-34786152-4
+  facebook: '254701668234813'
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.07205514
+layout_spectrum: 1
