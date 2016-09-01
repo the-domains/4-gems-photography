@@ -1,15 +1,17 @@
 ---
-datePublished: '2016-08-30T00:41:46.091Z'
+datePublished: '2016-08-30T00:44:39.458Z'
 sourcePath: _posts/2016-08-30-neighborhood.md
 inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-30T00:41:45.710Z'
+dateModified: '2016-08-30T00:44:39.098Z'
 title: Neighborhood
 publisher: {}
 description: A perfect mix of Urban & Fields
 starred: false
-_type: Blurb
+url: neighborhood/index.html
+_type: Article
 
 ---
 # Neighborhood
