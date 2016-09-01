@@ -1,3 +1,16 @@
+layout_spectrum: 0.6980906163807958
+typography_spectrum: 0.7580052362754941
+color:
+  saturation: 1
+  brandStrength: 0.7913491220679134
+  lightness: 1
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  rhythmicContrast: 0.2293233
 title: Kalamazoo Michigan High School Senior Photographer
 purpose: []
 collections:
@@ -13,17 +26,6 @@ collections:
       format: rss
       number: 10
 description: Capturing your inner sparkle!
-color:
-  saturation: 1
-  brandStrength: 0.7913491220679134
-  lightness: 1
-  brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  rhythmicContrast: 0.2293233
 cta:
   bucket: null
   version: null
@@ -45,5 +47,3 @@ opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.07205514
-layout_spectrum: 1
